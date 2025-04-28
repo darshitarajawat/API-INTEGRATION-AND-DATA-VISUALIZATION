@@ -19,7 +19,9 @@ DESCRIPTION : In today's world ability to collect data, decode and visually comm
   This task not only tests technical proficiency but also creativity and attention to detail.A successful submission will demonstrate clean code practices,a solid grasp of data structures and an understanding of the user's perspective 
   when presenting visual data. In conclusion, this task is not just an assignment; it's a complete cycle of modern development from collection to presentation. It encourages interns to think beyond the code and focus on how technology 
   can turn information into impactful insights. 
-  
+
+
+  OUTPUT: ![Image](https://github.com/user-attachments/assets/3ee2e159-4a54-4df3-82f5-d138ed3d07cf)
 
  
 
